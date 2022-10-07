@@ -1,0 +1,2 @@
+python DiabeticInsulinPrediction.py
+pause
