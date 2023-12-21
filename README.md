@@ -1,7 +1,7 @@
 # Machine Learning Models for Diabetic Patient Diagnosis and Insulin Dosage Prediction
 
 ## Project Overview
-In this project we are using Gradient Boosting Classifier to predict diabetes and then using Logistic Regression algorithm to predict insulin dosage in diabetic detected patients. To implement this project we are using PIMA diabetes dataset and UCI insulin dosage dataset. We are training both algorithms with above mention dataset and once after training we will upload test dataset with no class label and then Gradient Boosting will predict presence of diabetes and Logistic Regression will predict insulin dosage if diabetes detected by Gradient Boosting.
+In this project I am using Gradient Boosting Classifier to predict diabetes and then using Logistic Regression algorithm to predict insulin dosage in diabetic detected patients. To implement this project I am using PIMA diabetes dataset and UCI insulin dosage dataset. I am training both algorithms with above mention dataset and once after training I will upload test dataset with no class label and then Gradient Boosting will predict presence of diabetes and Logistic Regression will predict insulin dosage if diabetes detected by Gradient Boosting.
 
 ### Datasets
 - **PIMA Diabetes Dataset**
